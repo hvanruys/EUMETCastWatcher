@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/Icons">
+        <file>Settings_16x16.png</file>
+        <file>Settings_24x24.png</file>
+        <file>Settings_32x32.png</file>
+    </qresource>
+</RCC>
